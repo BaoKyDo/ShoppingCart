@@ -1,0 +1,54 @@
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\Project 2.csprojAssemblyReference.cache
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\MainWindow.g.cs
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\App.g.cs
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\Project 2_Content.g.cs
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\Project 2_MarkupCompile.cache
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\Project 2_MarkupCompile.lref
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\MainWindow.baml
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\Project 2.g.resources
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\bin\Debug\ShoppingCart.mdf
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\Project 2\Project 2\bin\Debug\ShoppingCart_log.ldf
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\bin\Debug\ShoppingCart.mdf
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\bin\Debug\ShoppingCart_log.ldf
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\bin\Debug\Project 2.exe
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\bin\Debug\Project 2.pdb
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.csprojAssemblyReference.cache
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\MainWindow.g.cs
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\App.g.cs
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2_Content.g.cs
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2_MarkupCompile.cache
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2_MarkupCompile.lref
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\MainWindow.baml
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.g.resources
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.exe
+C:\Users\Ky Do\Documents\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.pdb
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\bin\Debug\ShoppingCart.mdf
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\bin\Debug\ShoppingCart_log.ldf
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\bin\Debug\Project 2.exe.config
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\bin\Debug\Project 2.exe
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\bin\Debug\Project 2.pdb
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.csprojAssemblyReference.cache
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\MainWindow.g.cs
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\App.g.cs
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2_Content.g.cs
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2_MarkupCompile.cache
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2_MarkupCompile.lref
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\MainWindow.baml
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.g.resources
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.exe
+E:\School\BIS Fall Course - 2020\COMP255\COMP255 - Final Project\Project 2\obj\Debug\Project 2.pdb
